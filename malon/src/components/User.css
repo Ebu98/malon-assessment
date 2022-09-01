@@ -1,0 +1,18 @@
+.button-container{
+    max-width: 500px;
+    display:flex;
+    
+}
+
+.button-container button{
+    margin:20px;
+    width:100%;
+}
+.edit-form-container form{ 
+    display:flex;
+}
+.edit-form-container input{
+    margin: 10px;
+    max-width:100%;
+    /* display:flex; */
+}

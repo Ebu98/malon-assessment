@@ -1,0 +1,12 @@
+htyml,body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(28, 153, 211, 0.15);
+  font-family:'Trebuchet MS', Arial, sans-serif;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
